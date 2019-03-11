@@ -4,9 +4,9 @@
   [![npm](https://img.shields.io/npm/dm/rc-echarts.svg?style=flat)](https://www.npmjs.org/package/rc-echarts)
   
 ## install
-
+```
 $ npm install rc-echarts
-
+```
 ## Usage
 
 ###用法一
@@ -189,7 +189,7 @@ const myChart = React.creatClass({
 ReactDOM.render(<myChart />, container);
 ```
 
-##Example
+## Example
 
 *run demo*
 
